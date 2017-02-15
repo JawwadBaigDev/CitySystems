@@ -84,6 +84,8 @@ namespace UnitTestProject
         public int test1 ()
         {
             // this is async test jawwad
+
+            return 1;
         }
 
 
